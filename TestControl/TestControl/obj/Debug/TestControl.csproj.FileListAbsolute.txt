@@ -1,0 +1,14 @@
+C:\Users\MTPC4-06\source\repos\TestControl\TestControl\bin\Debug\TestControl.exe.config
+C:\Users\MTPC4-06\source\repos\TestControl\TestControl\bin\Debug\TestControl.exe
+C:\Users\MTPC4-06\source\repos\TestControl\TestControl\bin\Debug\TestControl.pdb
+C:\Users\MTPC4-06\source\repos\TestControl\TestControl\obj\Debug\TestControl.csprojAssemblyReference.cache
+C:\Users\MTPC4-06\source\repos\TestControl\TestControl\obj\Debug\MainWindow.g.cs
+C:\Users\MTPC4-06\source\repos\TestControl\TestControl\obj\Debug\App.g.cs
+C:\Users\MTPC4-06\source\repos\TestControl\TestControl\obj\Debug\TestControl_MarkupCompile.cache
+C:\Users\MTPC4-06\source\repos\TestControl\TestControl\obj\Debug\TestControl_MarkupCompile.lref
+C:\Users\MTPC4-06\source\repos\TestControl\TestControl\obj\Debug\MainWindow.baml
+C:\Users\MTPC4-06\source\repos\TestControl\TestControl\obj\Debug\TestControl.g.resources
+C:\Users\MTPC4-06\source\repos\TestControl\TestControl\obj\Debug\TestControl.Properties.Resources.resources
+C:\Users\MTPC4-06\source\repos\TestControl\TestControl\obj\Debug\TestControl.csproj.GenerateResource.cache
+C:\Users\MTPC4-06\source\repos\TestControl\TestControl\obj\Debug\TestControl.exe
+C:\Users\MTPC4-06\source\repos\TestControl\TestControl\obj\Debug\TestControl.pdb

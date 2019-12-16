@@ -1,0 +1,14 @@
+C:\Users\MTPC4-06\source\repos\WpfBasicContorolApp1\WpfBasicContorolApp1\bin\Debug\WpfBasicContorolApp1.exe.config
+C:\Users\MTPC4-06\source\repos\WpfBasicContorolApp1\WpfBasicContorolApp1\bin\Debug\WpfBasicContorolApp1.exe
+C:\Users\MTPC4-06\source\repos\WpfBasicContorolApp1\WpfBasicContorolApp1\bin\Debug\WpfBasicContorolApp1.pdb
+C:\Users\MTPC4-06\source\repos\WpfBasicContorolApp1\WpfBasicContorolApp1\obj\Debug\WpfBasicContorolApp1.csprojAssemblyReference.cache
+C:\Users\MTPC4-06\source\repos\WpfBasicContorolApp1\WpfBasicContorolApp1\obj\Debug\MainWindow.g.cs
+C:\Users\MTPC4-06\source\repos\WpfBasicContorolApp1\WpfBasicContorolApp1\obj\Debug\App.g.cs
+C:\Users\MTPC4-06\source\repos\WpfBasicContorolApp1\WpfBasicContorolApp1\obj\Debug\WpfBasicContorolApp1_MarkupCompile.cache
+C:\Users\MTPC4-06\source\repos\WpfBasicContorolApp1\WpfBasicContorolApp1\obj\Debug\WpfBasicContorolApp1_MarkupCompile.lref
+C:\Users\MTPC4-06\source\repos\WpfBasicContorolApp1\WpfBasicContorolApp1\obj\Debug\MainWindow.baml
+C:\Users\MTPC4-06\source\repos\WpfBasicContorolApp1\WpfBasicContorolApp1\obj\Debug\WpfBasicContorolApp1.g.resources
+C:\Users\MTPC4-06\source\repos\WpfBasicContorolApp1\WpfBasicContorolApp1\obj\Debug\WpfBasicContorolApp1.Properties.Resources.resources
+C:\Users\MTPC4-06\source\repos\WpfBasicContorolApp1\WpfBasicContorolApp1\obj\Debug\WpfBasicContorolApp1.csproj.GenerateResource.cache
+C:\Users\MTPC4-06\source\repos\WpfBasicContorolApp1\WpfBasicContorolApp1\obj\Debug\WpfBasicContorolApp1.exe
+C:\Users\MTPC4-06\source\repos\WpfBasicContorolApp1\WpfBasicContorolApp1\obj\Debug\WpfBasicContorolApp1.pdb
