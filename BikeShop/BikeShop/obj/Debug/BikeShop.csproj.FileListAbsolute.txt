@@ -1,0 +1,16 @@
+C:\Users\MTPC4-06\source\repos\BikeShop\BikeShop\bin\Debug\BikeShop.exe.config
+C:\Users\MTPC4-06\source\repos\BikeShop\BikeShop\bin\Debug\BikeShop.exe
+C:\Users\MTPC4-06\source\repos\BikeShop\BikeShop\bin\Debug\BikeShop.pdb
+C:\Users\MTPC4-06\source\repos\BikeShop\BikeShop\obj\Debug\BikeShop.csprojAssemblyReference.cache
+C:\Users\MTPC4-06\source\repos\BikeShop\BikeShop\obj\Debug\Contact.g.cs
+C:\Users\MTPC4-06\source\repos\BikeShop\BikeShop\obj\Debug\MainWindow.g.cs
+C:\Users\MTPC4-06\source\repos\BikeShop\BikeShop\obj\Debug\App.g.cs
+C:\Users\MTPC4-06\source\repos\BikeShop\BikeShop\obj\Debug\BikeShop_MarkupCompile.cache
+C:\Users\MTPC4-06\source\repos\BikeShop\BikeShop\obj\Debug\BikeShop_MarkupCompile.lref
+C:\Users\MTPC4-06\source\repos\BikeShop\BikeShop\obj\Debug\Contact.baml
+C:\Users\MTPC4-06\source\repos\BikeShop\BikeShop\obj\Debug\MainWindow.baml
+C:\Users\MTPC4-06\source\repos\BikeShop\BikeShop\obj\Debug\BikeShop.g.resources
+C:\Users\MTPC4-06\source\repos\BikeShop\BikeShop\obj\Debug\BikeShop.Properties.Resources.resources
+C:\Users\MTPC4-06\source\repos\BikeShop\BikeShop\obj\Debug\BikeShop.csproj.GenerateResource.cache
+C:\Users\MTPC4-06\source\repos\BikeShop\BikeShop\obj\Debug\BikeShop.exe
+C:\Users\MTPC4-06\source\repos\BikeShop\BikeShop\obj\Debug\BikeShop.pdb
