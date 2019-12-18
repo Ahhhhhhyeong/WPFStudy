@@ -1,0 +1,14 @@
+C:\Users\MTPC4-06\source\repos\BackgroundColorChange\BackgroundColorChange\bin\Debug\BackgroundColorChange.exe.config
+C:\Users\MTPC4-06\source\repos\BackgroundColorChange\BackgroundColorChange\bin\Debug\BackgroundColorChange.exe
+C:\Users\MTPC4-06\source\repos\BackgroundColorChange\BackgroundColorChange\bin\Debug\BackgroundColorChange.pdb
+C:\Users\MTPC4-06\source\repos\BackgroundColorChange\BackgroundColorChange\obj\Debug\BackgroundColorChange.csprojAssemblyReference.cache
+C:\Users\MTPC4-06\source\repos\BackgroundColorChange\BackgroundColorChange\obj\Debug\MainWindow.g.cs
+C:\Users\MTPC4-06\source\repos\BackgroundColorChange\BackgroundColorChange\obj\Debug\App.g.cs
+C:\Users\MTPC4-06\source\repos\BackgroundColorChange\BackgroundColorChange\obj\Debug\BackgroundColorChange_MarkupCompile.cache
+C:\Users\MTPC4-06\source\repos\BackgroundColorChange\BackgroundColorChange\obj\Debug\BackgroundColorChange_MarkupCompile.lref
+C:\Users\MTPC4-06\source\repos\BackgroundColorChange\BackgroundColorChange\obj\Debug\MainWindow.baml
+C:\Users\MTPC4-06\source\repos\BackgroundColorChange\BackgroundColorChange\obj\Debug\BackgroundColorChange.g.resources
+C:\Users\MTPC4-06\source\repos\BackgroundColorChange\BackgroundColorChange\obj\Debug\BackgroundColorChange.Properties.Resources.resources
+C:\Users\MTPC4-06\source\repos\BackgroundColorChange\BackgroundColorChange\obj\Debug\BackgroundColorChange.csproj.GenerateResource.cache
+C:\Users\MTPC4-06\source\repos\BackgroundColorChange\BackgroundColorChange\obj\Debug\BackgroundColorChange.exe
+C:\Users\MTPC4-06\source\repos\BackgroundColorChange\BackgroundColorChange\obj\Debug\BackgroundColorChange.pdb

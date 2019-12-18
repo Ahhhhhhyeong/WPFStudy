@@ -1,0 +1,14 @@
+C:\Users\MTPC4-06\source\repos\DataBindingTest1\DataBindingTest1\bin\Debug\DataBindingTest1.exe.config
+C:\Users\MTPC4-06\source\repos\DataBindingTest1\DataBindingTest1\bin\Debug\DataBindingTest1.exe
+C:\Users\MTPC4-06\source\repos\DataBindingTest1\DataBindingTest1\bin\Debug\DataBindingTest1.pdb
+C:\Users\MTPC4-06\source\repos\DataBindingTest1\DataBindingTest1\obj\Debug\DataBindingTest1.csprojAssemblyReference.cache
+C:\Users\MTPC4-06\source\repos\DataBindingTest1\DataBindingTest1\obj\Debug\MainWindow.g.cs
+C:\Users\MTPC4-06\source\repos\DataBindingTest1\DataBindingTest1\obj\Debug\App.g.cs
+C:\Users\MTPC4-06\source\repos\DataBindingTest1\DataBindingTest1\obj\Debug\DataBindingTest1_MarkupCompile.cache
+C:\Users\MTPC4-06\source\repos\DataBindingTest1\DataBindingTest1\obj\Debug\DataBindingTest1_MarkupCompile.lref
+C:\Users\MTPC4-06\source\repos\DataBindingTest1\DataBindingTest1\obj\Debug\MainWindow.baml
+C:\Users\MTPC4-06\source\repos\DataBindingTest1\DataBindingTest1\obj\Debug\DataBindingTest1.g.resources
+C:\Users\MTPC4-06\source\repos\DataBindingTest1\DataBindingTest1\obj\Debug\DataBindingTest1.Properties.Resources.resources
+C:\Users\MTPC4-06\source\repos\DataBindingTest1\DataBindingTest1\obj\Debug\DataBindingTest1.csproj.GenerateResource.cache
+C:\Users\MTPC4-06\source\repos\DataBindingTest1\DataBindingTest1\obj\Debug\DataBindingTest1.exe
+C:\Users\MTPC4-06\source\repos\DataBindingTest1\DataBindingTest1\obj\Debug\DataBindingTest1.pdb
